@@ -2,7 +2,6 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    site: {
     url: "https://health-gg.vercel.app/",
     title: "건강.gg",
     description: "대장 절제 수술 후기 및 실전 경험 기반 건강 정보 공략집",
@@ -12,7 +11,6 @@ export default defineAstroPaperConfig({
     lang: "ko",
     timezone: "Asia/Seoul",
     dir: "ltr",
-  },
   },
   posts: {
     perPage: 4,
