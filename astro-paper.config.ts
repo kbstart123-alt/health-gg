@@ -2,15 +2,17 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astro-paper.pages.dev/",
-    title: "AstroPaper",
-    description: "A minimal, responsive and SEO-friendly Astro blog theme.",
-    author: "Sat Naing",
+    site: {
+    url: "https://health-gg.vercel.app/",
+    title: "건강.gg",
+    description: "대장 절제 수술 후기 및 실전 경험 기반 건강 정보 공략집",
+    author: "건강마스터",
     profile: "https://satna.ing",
     ogImage: "default-og.jpg",
-    lang: "en",
-    timezone: "Asia/Bangkok",
+    lang: "ko",
+    timezone: "Asia/Seoul",
     dir: "ltr",
+  },
   },
   posts: {
     perPage: 4,
