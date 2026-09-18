@@ -1,6 +1,6 @@
 ---
 author: 건강마스터
-pubDatetime: 2026-09-18T17:30:00Z
+pubDatetime: 2026-09-01T00:00:00Z
 title: 대장 수술 후 좋은 식단과 피해야 할 음식
 featured: false
 draft: false
