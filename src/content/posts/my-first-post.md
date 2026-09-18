@@ -1,6 +1,6 @@
 ---
 author: 건강마스터
-pubDatetime: 2026-09-18T17:00:00Z
+pubDatetime: 2026-09-01T00:00:00Z
 title: 첫 번째 건강 정보 포스팅
 featured: true
 draft: false
