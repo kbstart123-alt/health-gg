@@ -2,8 +2,8 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://health-gg.vercel.app/",
-    title: "건강.gg",
+    url: "https://network-gg.vercel.app/",
+    title: "네트워크.gg",
     description: "대장 절제 수술 후기 및 실전 경험 기반 건강 정보 공략집",
     author: "건강마스터",
     profile: "https://satna.ing",
