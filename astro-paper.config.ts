@@ -4,7 +4,7 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://network-gg.vercel.app/",
     title: "네트워크.gg",
-    description: "대장 절제 수술 후기 및 실전 경험 기반 건강 정보 공략집",
+    description: "네트워크 엔지니어링 실무 경험과 패킷 분석, IT 인프라 구축 및 문제 해결 공략집입니다.",
     author: "건강마스터",
     profile: "https://satna.ing",
     ogImage: "default-og.jpg",
